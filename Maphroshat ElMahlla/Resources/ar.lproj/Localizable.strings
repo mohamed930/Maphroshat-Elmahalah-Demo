@@ -1,0 +1,63 @@
+/* 
+  Localizable.strings
+  Maphroshat ElMahlla
+
+  Created by Mohamed Ali on 1/25/21.
+  Copyright © 2021 Mohamed Ali. All rights reserved.
+*/
+
+"lang" = "ar";
+
+"Attension" = "انتبه";
+"ShowMess" = "تمت انتهاء من النسخه التجريبية شكراً لاتهمامكم";
+
+"Waiting" = "من قضلك برجاء الانتظار";
+"CreateSuccessfully"= "تم انشاء البيانات بنجاح";
+"CreateUnSuccessfully"= "لم يتم انشاء البيانات بنجاح";
+"ReadFailed"= "لم يتم قرائه البيانات بنجاح";
+"NoProduct"= "لا يوجد منتجات مضافه حالياً";
+"Account"= "لا يوجد حساب بهذا الرقم";
+"AccountExsist" = "هذا الوقم موجود بالفعل";
+"MessTele" = "من قضلك ادخل رقم تليفون صحيح";
+"AddedProduct"= "هذا المنتج مًضاف سابقاً";
+"Error"= "تاكد من اتصالك بالانترنت";
+"UpdateUnSuccessfully"= "لم يتم تعديل البيانات بنجاح";
+"UpdateSuccessfully"= "تمت تعديل البيانات بنجاح";
+"DeleteUnSuccessfully"= "لم يتم مسح البيانات بنجاح";
+"DeleteSuccessfully"= "تم مسح البيان بنجاح";
+"OK"= "موافق";
+"Name"= "الاسم";
+"PhoneNumber"= "رقم التليفون";
+"Password"= "كلمه المرور";
+"Error1" =  "خطا";
+"Mess" = "من قضلك املى جميع الخانات";
+"AdminMess" = "انا المدير";
+"UserMess" = "لست المدير";
+"loginMess" = "رقم التليفون او كلمه المرور غير صحيحين";
+"SearchPlaceHolder" = "ادخل اسم المنتج";
+"Attention" = "انتبه";
+"AskAmmount" = "من فصلك ادخل الكميه المناسبه";
+"Exit" = "هل انت متاكد انك تريد تسجيل الخروج؟";
+"Cancel" = "الغاء الامر";
+"logout" = "تسجيل الخروج";
+"DeleteMess" = "هل انت متأكد من مسح هذا الصنف؟";
+"Delete" = "حذف";
+"TotalPrice" = "الناتج النهائي = ";
+"EGP" = "جنيه مصري";
+"PromoCode" = "من فضلك ادخل كود خصم مناسب";
+"PromoCodeNotFound" = "عزراً كود الخصم غير صحيح";
+"OrderConfirmation" = "تم تنفيذ طلبك بنجاح";
+"ConfrimMess" = "تهانابا لقد اتم طلبك وفريبا سوف يصلك علي العنوان الذي ارسلته";
+"SubScktion" = "اختار القسم المراد الاضافه فيه";
+"PName" = "اسم المنتج ٫٫٫";
+"PDetails" = "تقاصيل المنتج ٫٫٫٫";
+"PPrice" = "سعر المنتج ٫٫٫٫";
+"POldPrice" = "السعر القديم للمنتج ٫٫٫";
+"ActionAsk" = "ما هي الخطوه القادمه؟";
+"Reject" = "رفض";
+"Accept" = "تم القبول";
+"Phone" = "رقم الهاتف";
+"ShippingAddress" = "عنوان الشحن";
+"Orderat" = "تاريخ الطلب";
+"Quantity" = "الكميه = ";
+"Result" = "لا يوجد نتيجه";

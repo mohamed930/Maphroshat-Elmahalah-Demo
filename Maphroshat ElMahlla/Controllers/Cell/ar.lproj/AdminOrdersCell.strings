@@ -1,0 +1,21 @@
+
+/* Class = "UIButton"; normalTitle = "SHOW USER ORDER PRODUCT"; ObjectID = "4be-2c-L29"; */
+"4be-2c-L29.normalTitle" = "اظهر منتجات المستخدم";
+
+/* Class = "UILabel"; text = "Order at: Aug 21,2020"; ObjectID = "Iuz-t1-5bi"; */
+"Iuz-t1-5bi.text" = "تاريخ الطلب : Aug,13th 2020";
+
+/* Class = "UILabel"; text = "Name: Amr"; ObjectID = "XlL-M4-SGe"; */
+"XlL-M4-SGe.text" = "الاسم: Amr";
+
+/* Class = "UILabel"; text = "Total Ammount = 890EGP"; ObjectID = "hYK-PT-SDa"; */
+"hYK-PT-SDa.text" = "قيمه المنتج = ٢٠٠ حنيه مصري";
+
+/* Class = "UILabel"; text = "State"; ObjectID = "otU-h5-AZV"; */
+"otU-h5-AZV.text" = "State";
+
+/* Class = "UILabel"; text = "Shipping Address: mobark, mahalla"; ObjectID = "uOf-pW-oKv"; */
+"uOf-pW-oKv.text" = "عنوان الشحن = Mobrak , Elmahala";
+
+/* Class = "UILabel"; text = "Phone: 01234567890"; ObjectID = "x30-gy-Nd1"; */
+"x30-gy-Nd1.text" = "رقم التليفون : ٠١٢٢٧٨٨٠٤٢٢";

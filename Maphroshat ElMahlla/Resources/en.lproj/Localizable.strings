@@ -1,0 +1,62 @@
+/* 
+  Localizable.strings
+  Maphroshat ElMahlla
+
+  Created by Mohamed Ali on 1/25/21.
+  Copyright © 2021 Mohamed Ali. All rights reserved.
+*/
+ "lang" = "en";
+
+"Attension" = "Attension";
+"ShowMess" = "you are ended with demoa thanks for testing";
+
+"Waiting"= "Please Wait";
+"CreateSuccessfully"= "Your Data is created Successed!";
+"CreateUnSuccessfully"= "Your Data not created Successed!";
+"ReadFailed"= "Your Data not Readed Successed!";
+"NoProduct"= "There is no Products";
+"Account"= "There is no account with this number";
+"AccountExsist" = "This number is exsist";
+"MessTele" = "Please Insert Valid Phone Number";
+"AddedProduct"= "Producted Added Before";
+"Error"= "Error in Your connection!";
+"UpdateUnSuccessfully"= "Your Data not updated Successed!";
+"UpdateSuccessfully"= "Your Data updated Successed!";
+"DeleteUnSuccessfully"= "Your Data not deleted Successed!";
+"DeleteSuccessfully"= "Your Data deleted Successed!";
+"OK"= "OK";
+"Name"= "Name";
+"PhoneNumber"= "Phone Number";
+"Password"= "Password";
+"Error1" =  "Error";
+"Mess" = "Please Fill All Fields";
+"AdminMess" = "I am an Admin";
+"UserMess" = "I am not Admin";
+"loginMess" = "Phonenumber or password isn't correct";
+"SearchPlaceHolder" = "Enter Product Name";
+"Attention" = "Attention";
+"AskAmmount" = "Please Chooce Amount";
+"Exit" = "Are You Sure to Exit?";
+"Cancel" = "Cancel";
+"logout" = "logout";
+"DeleteMess" = "Are You Sure Delete Element?";
+"Delete" = "Delete";
+"TotalPrice" = "Total Price = ";
+"EGP" = "EGP";
+"PromoCode" = "Please, Enter Promocode";
+"PromoCodeNotFound" = "Promocode wasn't Correct!";
+"OrderConfirmation" = "Order is Made Successfully";
+"ConfrimMess" = "Congraduation your final order has been placed successfully soon you will recive your order at your door soon it will be verified";
+"SubScktion" = "Chooce Sup Sektion";
+"PName" = "Product Name...";
+"PDetails" = "Product Details...";
+"PPrice" = "Product Price...";
+"POldPrice" = "Product Old Price...";
+"ActionAsk" = "What is Action you will do?";
+"Reject" = "Reject";
+"Accept" = "Accept";
+"Phone" = "Phone";
+"ShippingAddress" = "Shipping Address:";
+"Orderat" = "Order at";
+"Quantity" = "Quantity = ";
+"Result" = "Result not found";
